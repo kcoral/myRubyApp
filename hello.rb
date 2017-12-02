@@ -6,7 +6,8 @@
           "a slice of stale wedding cake",
           "a medium-sized island off the coast of Sumatra",
           "a visual prosthesis",
-          "a house"
+          "a house",
+          "new gift to the list"
          ]
          
   puts "All I got for valentine's day was #{gift.sample}."
